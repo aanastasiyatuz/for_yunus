@@ -1,0 +1,6 @@
+SECRET_KEY=<str:key>
+DEBUG=<bool:0/1>
+ALLOWED_HOSTS=127.0.0.1 www.example.com other.domain.com 
+DB_NAME=<str:database name>
+DB_USER=<str:psql user>
+DB_PASSWORD=<str:psql password>
